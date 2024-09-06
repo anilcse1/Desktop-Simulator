@@ -7,11 +7,9 @@ OpenGL project which consists of 3D environment, to demonstrate assembly and dis
 
 ![Desktop-Simulator-Logo](https://user-images.githubusercontent.com/48080453/79739766-4220f300-831c-11ea-9873-8991e212f4cb.png)
 
-see [Code of Conduct](https://github.com/AdarshRevankar/Desktop-Simulator/blob/master/CODE_OF_CONDUCT.md)
 
----
-## Demonstration - Youtube
-```https://youtu.be/VInynN3uoLo```
+
+
 
 ---
 ## Snapshot
@@ -87,12 +85,9 @@ Desktop View | <img src="https://user-images.githubusercontent.com/48080453/6019
   
 ---
 
-## Project Report
-> [Project Report](https://github.com/AdarshRevankar/GRAPHICAL-SIMULATION-OF-DESKTOP-AND-ITS-COMPONENTS/files/3331188/Report_GSDC.pdf) with detailed structure of project.
+
 
 ---
 
-## Questions
-  Mail / Facebook messages can be done
-  * [Adarsh Revankar](https://www.facebook.com/adarsh.revankar.3) - `adarsh_revankar@live.com`
-  * [Akshaya Ram](https://www.facebook.com/akshaya.muthuraman) - `akshayaram004@gmail.com`
+## Phone number
+  8618502199
